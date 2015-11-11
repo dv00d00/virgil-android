@@ -13,7 +13,7 @@ Package ID:
 
     dependencies {
         ...
-        compile 'com.vergilsecurity.android:sdk:1.0.5'
+        compile 'com.virgilsecurity.android:sdk:1.0.6'
         ...
     }
 
