@@ -21,3 +21,5 @@ Sample:
             Toast.makeText(MainActivity.this, error.getMessage(), Toast.LENGTH_SHORT).show();
         }
     });
+
+Full samples list could be found here: https://github.com/VirgilSecurity/virgil-android/blob/master/samples/src/main/java/com/vilgil/sdk/MainActivity.java
