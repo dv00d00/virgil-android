@@ -1,6 +1,22 @@
 # virgil-android
 Virgil SDK for Android
 
+Installation:
+
+SDK Is Available in the Maven Central and JCenter repositories as well as in 
+
+    maven {
+        url  "http://dl.bintray.com/dv00d00/maven"
+    }
+
+Package ID: 
+
+    dependencies {
+        ...
+        compile 'com.vergilsecurity.android:sdk:1.0.5'
+        ...
+    }
+
 Sample:
 
     final Connection myConnection = new Connection("APP_TOKEN", URI.create("https://keys.virgilsecurity.com/v2/"));
